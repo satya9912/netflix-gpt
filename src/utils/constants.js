@@ -33,4 +33,4 @@ export const SUPPORTED_LANGUAGES = [
   },
 ]  
 
-export const MY_OPENAI_KEY = process.env.REACT_APP_OPEN_AI_API_KEY;
+export const OPENAI_API_KEY = process.env.REACT_APP_OPEN_AI_API_KEY;
