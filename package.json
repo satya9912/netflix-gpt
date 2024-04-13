@@ -1,6 +1,5 @@
 {
   "name": "netflix-gpt",
-  "homepage": "https://satya9912.github.io/netflix-gpt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
